@@ -1,6 +1,6 @@
 {
   "vaultName": "DND-LMoP",
-  "lastExport": 1729717544253,
+  "lastExport": 1730315886271,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager native-scrollbars theme-light show-inline-title show-ribbon check-color check-bg wotc-beyond",
   "useCustomHeadContent": false,
@@ -102,145 +102,145 @@
   ],
   "fileInfo": {
     "assets/Karte-Schwertküste.webp": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 478478,
       "exportedPath": "assets/karte-schwertküste.webp",
       "dependencies": []
     },
     "assets/map-phandalin-player.webp": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 236116,
       "exportedPath": "assets/map-phandalin-player.webp",
       "dependencies": []
     },
     "assets/Niewinter.jpg": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 4467836,
       "exportedPath": "assets/niewinter.jpg",
       "dependencies": []
     },
     "Charaktere/Gruppierung/Harfner.md": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 0,
       "exportedPath": "charaktere/gruppierung/harfner.html",
       "dependencies": []
     },
     "Charaktere/Gruppierung/Rotbrenner.md": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 0,
       "exportedPath": "charaktere/gruppierung/rotbrenner.html",
       "dependencies": []
     },
     "Charaktere/Niewinter/Gundren Felssucher.md": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 0,
       "exportedPath": "charaktere/niewinter/gundren-felssucher.html",
       "dependencies": []
     },
     "Charaktere/Niewinter/Sildar Hallwinter.md": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 0,
       "exportedPath": "charaktere/niewinter/sildar-hallwinter.html",
       "dependencies": []
     },
     "Charaktere/Phandalin/Daran Edermath.md": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 0,
       "exportedPath": "charaktere/phandalin/daran-edermath.html",
       "dependencies": []
     },
     "Charaktere/Phandalin/Harbin Wester.md": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 0,
       "exportedPath": "charaktere/phandalin/harbin-wester.html",
       "dependencies": []
     },
     "Charaktere/Phandalin/Linene Grauwind.md": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 1,
       "exportedPath": "charaktere/phandalin/linene-grauwind.html",
       "dependencies": []
     },
     "Charaktere/Phandalin/Pip.md": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 0,
       "exportedPath": "charaktere/phandalin/pip.html",
       "dependencies": []
     },
     "Charaktere/Phandalin/Quelline Erlenblatt.md": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 0,
       "exportedPath": "charaktere/phandalin/quelline-erlenblatt.html",
       "dependencies": []
     },
     "Charaktere/Phandalin/Schwester Garaele.md": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 0,
       "exportedPath": "charaktere/phandalin/schwester-garaele.html",
       "dependencies": []
     },
     "Charaktere/Phandalin/Toblen.md": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 0,
       "exportedPath": "charaktere/phandalin/toblen.html",
       "dependencies": []
     },
     "Charaktere/Spieler/Augustus.md": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 0,
       "exportedPath": "charaktere/spieler/augustus.html",
       "dependencies": []
     },
     "Charaktere/Spieler/Aurelia Flandenthal.md": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 0,
       "exportedPath": "charaktere/spieler/aurelia-flandenthal.html",
       "dependencies": []
     },
     "Charaktere/Spieler/Brottor.md": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 0,
       "exportedPath": "charaktere/spieler/brottor.html",
       "dependencies": []
     },
     "Charaktere/Spieler/San.md": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 0,
       "exportedPath": "charaktere/spieler/san.html",
       "dependencies": []
     },
     "Story-Journal/Session 4 Zusammenfassung.md": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 5125,
       "exportedPath": "story-journal/session-4-zusammenfassung.html",
       "dependencies": []
     },
     "Welt/Orte/Sonstige/Burg Cragmaw.md": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 0,
       "exportedPath": "welt/orte/sonstige/burg-cragmaw.html",
       "dependencies": []
     },
     "Welt/Orte/Sonstige/Dreieberpfad.md": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 0,
       "exportedPath": "welt/orte/sonstige/dreieberpfad.html",
       "dependencies": []
     },
     "Welt/Orte/Städte/Conyberry.md": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 0,
       "exportedPath": "welt/orte/städte/conyberry.html",
       "dependencies": []
     },
     "Welt/Orte/Städte/Leilon.md": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 0,
       "exportedPath": "welt/orte/städte/leilon.html",
       "dependencies": []
     },
     "Welt/Orte/Städte/Niewinter.md": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 902,
       "exportedPath": "welt/orte/städte/niewinter.html",
       "dependencies": [
@@ -248,7 +248,7 @@
       ]
     },
     "Welt/Orte/Städte/Phandalin.md": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 1230,
       "exportedPath": "welt/orte/städte/phandalin.html",
       "dependencies": [
@@ -256,7 +256,7 @@
       ]
     },
     "Welt/Karte der Schwertküste.md": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 104,
       "exportedPath": "welt/karte-der-schwertküste.html",
       "dependencies": [
@@ -264,205 +264,205 @@
       ]
     },
     "lib/media/niewinter.jpg": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 4467836,
       "exportedPath": "lib/media/niewinter.jpg",
       "dependencies": []
     },
     "lib/media/map-phandalin-player.webp": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 236116,
       "exportedPath": "lib/media/map-phandalin-player.webp",
       "dependencies": []
     },
     "lib/media/karte-schwertküste.webp": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 478478,
       "exportedPath": "lib/media/karte-schwertküste.webp",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 31308,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 1855,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 131134,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 23715,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 718333,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 80,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1729717544253,
+      "modifiedTime": 1730315886271,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
